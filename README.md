@@ -72,9 +72,9 @@ For each language, the output folder contains:
 
 ## Roadmap
 
-- [x] Dub a video into one or more languages in the creator's voice
-- [x] Rebuild a finished, ready-to-post MP4 per language
-- [x] Watch a synced folder for hands-off processing
+- [ ] Dub a video into one or more languages in the creator's voice
+- [ ] Rebuild a finished, ready-to-post MP4 per language
+- [ ] Watch a synced folder for hands-off processing
 - [ ] Run directly from Google Drive in the cloud, with no computer left on
 - [ ] Schedule and post to TikTok, YouTube Shorts and Instagram
 - [ ] Review step so the creator can approve each dub before it goes live
