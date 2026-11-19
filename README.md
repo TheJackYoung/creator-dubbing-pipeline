@@ -90,4 +90,4 @@ For each language, the output folder contains:
 
 Built by **Jack Young**, Head of Creator at Greenwood Management, a creator management company in Los Angeles. I've spent 13+ years working with creators, and this project comes from a real gap I see on my roster: great content that never reaches the audiences who would love it, just because of language.
 
-[LinkedIn]([https://www.linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/jack-young-88454253/) · Jack@greenwoodmgmt.com
+[LinkedIn](https://www.linkedin.com/in/jack-young-88454253/) · Jack@greenwoodmgmt.com
